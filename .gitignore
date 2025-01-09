@@ -1,0 +1,20 @@
+# Diretório de build do Maven
+/target/
+
+# Arquivos de log
+*.log
+
+# Configurações específicas de IDEs
+/.idea/
+/*.iml
+/.project
+/.classpath
+/.settings/
+
+# Arquivos temporários do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de configuração locais
+application-*.properties
+application-*.yml
